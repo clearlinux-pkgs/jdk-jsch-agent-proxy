@@ -4,7 +4,7 @@
 #
 Name     : jdk-jsch-agent-proxy
 Version  : 0.0.8
-Release  : 1
+Release  : 2
 URL      : https://github.com/ymnk/jsch-agent-proxy/archive/0.0.8.tar.gz
 Source0  : https://github.com/ymnk/jsch-agent-proxy/archive/0.0.8.tar.gz
 Summary  : No detailed summary available
